@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/fergusonc8841/Documents/GitHub/FergusonChloe_CS-596-900A/Project 1/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/fergusonc8841/Documents/GitHub/FergusonChloe_CS-596-900A/Project 1/Content/Lightingtest.umap",
+				"C:/Users/fergusonc8841/Documents/GitHub/FergusonChloe_CS-596-900A/Project 1/Content/Project1Mats/WoodGrain_INST1_ambientocclusion.uasset",
+				"C:/Users/fergusonc8841/Documents/GitHub/FergusonChloe_CS-596-900A/Project 1/Content/Project1Mats/WoodGrain_INST1_basecolor.uasset",
+				"C:/Users/fergusonc8841/Documents/GitHub/FergusonChloe_CS-596-900A/Project 1/Content/Project1Mats/WoodGrain_INST1_metallic.uasset",
+				"C:/Users/fergusonc8841/Documents/GitHub/FergusonChloe_CS-596-900A/Project 1/Content/Project1Mats/WoodGrain_INST1_normal.uasset",
+				"C:/Users/fergusonc8841/Documents/GitHub/FergusonChloe_CS-596-900A/Project 1/Content/Project1Mats/WoodGrain_INST1_roughness.uasset",
+				"C:/Users/fergusonc8841/Documents/GitHub/FergusonChloe_CS-596-900A/Project 1/Content/Project1Mats/WoodGrainRevised/WoodGrain.uasset",
+				"C:/Users/fergusonc8841/Documents/GitHub/FergusonChloe_CS-596-900A/Project 1/Content/Project1Mats/WoodGrainRevised/WoodGrain_INST.uasset",
+				"C:/Users/fergusonc8841/Documents/GitHub/FergusonChloe_CS-596-900A/Project 1/Content/Project1Mats/WoodGrainRevised/WoodGrain_INST_basecolor.uasset",
+				"C:/Users/fergusonc8841/Documents/GitHub/FergusonChloe_CS-596-900A/Project 1/Content/Project1Mats/WoodGrainRevised/WoodGrain_INST_normal.uasset",
+				"C:/Users/fergusonc8841/Documents/GitHub/FergusonChloe_CS-596-900A/Project 1/Content/Project1Mats/WoodGrainRevised/WoodGrain_INST_roughness.uasset",
+				"C:/Users/fergusonc8841/Documents/GitHub/FergusonChloe_CS-596-900A/Project 1/Content/Project1Mats/WoodGrainRevised/WoodGrain_INST_metallic.uasset",
+				"C:/Users/fergusonc8841/Documents/GitHub/FergusonChloe_CS-596-900A/Project 1/Content/Project1Mats/WoodGrainRevised/WoodGrain_MAT.uasset",
+				"C:/Users/fergusonc8841/Documents/GitHub/FergusonChloe_CS-596-900A/Project 1/Content/Project1Mats/WoodGrainRevised/WoodGrain_INST_ambientocclusion.uasset",
+				"C:/Users/fergusonc8841/Documents/GitHub/FergusonChloe_CS-596-900A/Project 1/Content/Project1Mats/WoodGrainRevised/WoodGrain_MAT_Inst.uasset"
+			]
+		}
+	]
+}
